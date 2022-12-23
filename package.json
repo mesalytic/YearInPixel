@@ -1,0 +1,32 @@
+{
+  "name": "yearinpixel",
+  "version": "0.0.1",
+  "description": "A Discord bot to track your Year In Pixel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocololat/YearInPixel.git"
+  },
+  "keywords": [
+    "year in pixel",
+    "discord",
+    "year",
+    "in",
+    "pixel"
+  ],
+  "author": "Alice (mesa#0101)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chocololat/YearInPixel/issues"
+  },
+  "homepage": "https://github.com/chocololat/YearInPixel#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}
